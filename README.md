@@ -1,2 +1,2 @@
 # portswigger-labs
-Hands-on PortSwigger Web Security Academy labs with detailed writeups, logic breakdowns, Burp Suite usage, and vulnerability analysis.
+Structured writeups of PortSwigger Web Security Academy labs with deep technical analysis of web vulnerabilities and exploitation techniques
